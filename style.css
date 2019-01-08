@@ -1,0 +1,67 @@
+body {
+color: gray;
+margin: 0;
+}
+#sus {
+  background-color: #ADD8E6;
+  height: 150px;
+  padding: 20px;
+  line-height: 120px;
+}
+a {
+  text-decoration: none;
+}
+#dreapta {
+  float:right;
+  font-size: 20px;
+  font-weight: bold;
+}
+#stanga {
+  float: left;
+  font-weight: bolder;
+}
+#dreapta li {
+  display: inline;
+  padding-left: 20px;
+}
+#stanga a {
+  background-color: #6B8E23;
+  padding: 10px;
+  color: white;
+  letter-spacing: 0.1em;
+}
+#dreapta a {
+  color: black;
+}
+#sus a:hover {
+  color: #A9A9A9;
+}
+#jos {
+  background-color: #FFEFD5;
+  height: 40em;
+  padding: 5em;
+}
+#jos h2 {
+  text-align: center;
+  font-size: 50px;
+  min-height: 100px;
+  margin: auto auto;
+  color: black;
+}
+#jos ul {
+  font-size: 40px;
+max-width: 800px;
+margin: auto auto;
+color: black;
+}
+#jos a {
+  color : #6B8E23;
+}
+#jos a:hover {
+  color: #FFA500;
+}
+#button {
+  height: 20px;
+  width: 60px;
+  color: red;
+}
